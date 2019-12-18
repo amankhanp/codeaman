@@ -1,5 +1,11 @@
 package codeaman.java.polymorphism;
 
+/**
+ * This Java file contains 2 classes.
+ * Parent-Class: Poly1
+ * Child-Class: PolyTest
+ * Mostly focused on overloading & overriding method with inheritance concept.
+ */
 class Poly1 {
     void poly1_Method1(){
         System.out.println("Poly1-poly1_Method1: Method-1");
