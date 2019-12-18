@@ -92,6 +92,5 @@ public class PolyTest extends Poly1 {
         * Using parent.object we can't call child-class member functions.
         * CompileTime Error: cannot find symbol.
         * */
-
     }
 }
