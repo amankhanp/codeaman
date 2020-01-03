@@ -1,0 +1,14 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="11n9qkkzHiTchgMQ5ALD" />
+          <option name="apiUrl" value="https://git.epam.com/" />
+          <option name="removeSourceBranch" value="false" />
+          <option name="repositoryUrl" value="git.epam.com" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
