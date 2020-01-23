@@ -22,8 +22,12 @@
           <option name="url" value="https://git.epam.com/Amanullah_Pathan/learn_automation.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/amankhanp/codeaman.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Epam_Workspace\learn-automation-repo" />
+    <option name="cloneParentDir" value="D:\Workspace" />
   </component>
 </application>
